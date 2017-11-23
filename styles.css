@@ -1,0 +1,38 @@
+body {
+    font-family: 'Indie Flower', cursive;
+}
+
+#dolphin {
+    max-width: 332px;
+    max-height: 1800px;
+    background-color: darkturquoise;
+    border: 2px dashed steelblue;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    padding-left: 1em;
+}
+
+.content {
+    max-width: 300px;
+    background-color: lightsteelblue;
+    border: 2px dashed steelblue;
+    border-radius: 5px;
+    margin: 1em;
+    padding: 7px;
+}
+
+.interesting {
+    font-style: italic;
+}
+
+span {
+        font-weight: bold;
+}
